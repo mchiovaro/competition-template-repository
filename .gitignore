@@ -1,6 +1,6 @@
 # Downloaded and generated data
 data/*
-!data/README.md
+!data/README.txt
 !data/.gitkeep
 oisst_cache/
 packaged_data/
